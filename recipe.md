@@ -8,3 +8,4 @@ Serves: 4
 - 1 tsp baking powder
 ## Topping
 Maple syrup
+Blueberries
