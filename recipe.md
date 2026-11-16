@@ -1,0 +1,10 @@
+# Class Pancake Recipe
+Serves: 4
+## Ingredients
+- 1 cup flour
+- 1 cup milk
+- 1 egg
+- 2 tablespoons sugar
+- 1 tsp baking powder
+## Topping
+Maple syrup
